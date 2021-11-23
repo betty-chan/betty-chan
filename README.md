@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @betty-chan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, 我是betty-chan
+- 👀 最近在干什么？
+  - 打算使用Electron做个人项目-人脉管理系统。
 
 <!---
 betty-chan/betty-chan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
